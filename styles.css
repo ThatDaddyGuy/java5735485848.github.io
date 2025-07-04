@@ -38,3 +38,9 @@ ul {
 li {
     margin: 5px 0;
 }
+
+/*About Styles*/
+img {
+    width: 300px;
+    height: 300px;
+}
